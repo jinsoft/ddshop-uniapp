@@ -1,4 +1,5 @@
 /node_modules/*
 /unpackage/*
+/.hbuilderx/*
 !/unpackage/res/*
 /.idea/*
